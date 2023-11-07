@@ -1,1 +1,0 @@
-# react-dog-shelter-app
