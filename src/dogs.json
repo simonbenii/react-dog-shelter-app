@@ -1,1708 +1,1687 @@
-[{
-  "_id": {
-    "$oid": "64c4f89f213eebf55df01a55"
-  },
-  "name": "Anastasia",
-  "breeds": "Siberian Husky",
-  "colors": "White / Cream",
-  "age": "Senior",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [
-    "Friendly",
-    "Gentle",
-    "Playful",
-    "Independent",
-    "Couch potato",
-    "Loves Kisses"
-  ],
-  "description": "Anastasia came to us from The Valley after being chained up outside and starved nearly to death. Due to old...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664905/2/?bust=1690629401&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664905/1/?bust=1690629400&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664905/3/?bust=1690629402&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f89f213eebf55df01a56"
-  },
-  "name": "Martini-Local",
-  "breeds": "Italian Greyhound",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Small",
-  "houseTrained": false,
-  "attributes": [
-    "Friendly",
-    "Affectionate",
-    "Brave",
-    "Loves kisses",
-    "Funny",
-    "Playful",
-    "Athletic"
-  ],
-  "description": "MEET MARTINI!\n\nMartini is certainly the life of any party! This little girl is a 7 month old, Mini Italian...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/1/?bust=1690629363&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/2/?bust=1690629364&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/3/?bust=1690629364&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/4/?bust=1690629365&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/5/?bust=1690629366&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/6/?bust=1690629367&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f89f213eebf55df01a57"
-  },
-  "name": "DUKE",
-  "breeds": "American Bully",
-  "colors": "Black",
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": true,
-  "attributes": [
-    "Smart",
-    "Friendly"
-  ],
-  "description": "Duke is awesome! His previous owner could no longer take care of him. He arrived to the shelter on 7/27....",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/1/?bust=1690629291&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/2/?bust=1690629292&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/3/?bust=1690629292&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/4/?bust=1690629293&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/5/?bust=1690629293&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/6/?bust=1690629294&width=600"
-  ],
-  "adoptable": false,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f89f213eebf55df01a58"
-  },
-  "name": "Aspen",
-  "breeds": "Dalmatian",
-  "colors": "White / Cream",
-  "age": "Young",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": true,
-  "attributes": [
-    "Friendly",
-    "Affectionate",
-    "Loyal",
-    "Gentle",
-    "Smart",
-    "Loves kisses",
-    "Dignified"
-  ],
-  "description": "Aspen was picked up as a stray in a small town we help. We tried to find his owner, but...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664902/1/?bust=1690629235&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664902/2/?bust=1690629236&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664902/3/?bust=1690629238&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664902/4/?bust=1690629239&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664902/5/?bust=1690629241&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f89f213eebf55df01a5a"
-  },
-  "name": "Denver",
-  "breeds": "Pointer",
-  "colors": "Brown / Chocolate",
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": true,
-  "attributes": [
-    "Friendly",
-    "Funny",
-    "Playful",
-    "Curious"
-  ],
-  "description": "Who doesn’t love a playful, funny, clumsy little puppy?? #CRRDenver is new to our rescue, and he’s already made sure...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664896/1/?bust=1690628931&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664896/2/?bust=1690628931&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f89f213eebf55df01a59"
-  },
-  "name": "Jack",
-  "breeds": "Labrador Retriever",
-  "colors": "Black",
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [
-    "Friendly",
-    "Affectionate",
-    "Loyal",
-    "Gentle",
-    "Playful",
-    "Smart",
-    "Funny",
-    "Curious",
-    "Quiet",
-    "Dignified"
-  ],
-  "description": "#A083271, Labrador Retriever mix, Male, 65 lbs, 2 yrs old, Intake 7/18/23, Stray\n\nJack is a beautiful boy that is...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664898/1/?bust=1690629019&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664898/2/?bust=1690629021&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f89f213eebf55df01a5b"
-  },
-  "name": "Pete ",
-  "breeds": "American Bulldog",
-  "colors": "White / Cream",
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [
-    "Friendly",
-    "Affectionate",
-    "Loyal",
-    "Gentle",
-    "Playful",
-    "Smart",
-    "Loves kisses",
-    "Funny"
-  ],
-  "description": "#A083325, American Bulldog/Bull Terrier mix, Male, 53 lbs, 1 yr old, Intake 7/24/23, Stray\n\nPete is a sweet boy that...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664892/2/?bust=1690628260&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664892/1/?bust=1690628259&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664892/3/?bust=1690628261&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664892/4/?bust=1690628261&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f89f213eebf55df01a5c"
-  },
-  "name": "Norman",
-  "breeds": "Shetland Sheepdog / Sheltie",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664888/1/?bust=1690628847&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664888/2/?bust=1690628851&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664888/3/?bust=1690628852&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f89f213eebf55df01a54"
-  },
-  "name": "Azalea",
-  "breeds": "Terrier",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": true,
-  "attributes": [
-    "Friendly",
-    "Smart",
-    "Affectionate",
-    "Dignified",
-    "Couch Potato"
-  ],
-  "description": "Meet southern belle Azalea!\nShe is a 3 year old petite Terrier mix from an overcrowded shelter in Louisiana.\nAzalea...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664906/1/?bust=1690629615&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664906/2/?bust=1690629616&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf61"
-  },
-  "name": "Joker",
-  "breeds": "Pit Bull Terrier",
-  "colors": null,
-  "age": "Young",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664883/1/?bust=1690628737&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664883/2/?bust=1690628737&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664883/3/?bust=1690628736&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf62"
-  },
-  "name": "Kevin",
-  "breeds": "Hound",
-  "colors": null,
-  "age": "Young",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Kevin is a 1-year-old hound mix with a handsome black and white coat and soulful eyes. He is a medium-size...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664875/1/?bust=1690628734&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664875/2/?bust=1690628735&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf66"
-  },
-  "name": "Sherlock",
-  "breeds": "Basset Hound",
-  "colors": "Brown / Chocolate",
-  "age": "Senior",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664870/1/?bust=1690627573&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf69"
-  },
-  "name": "Sola",
-  "breeds": "Pit Bull Terrier",
-  "colors": null,
-  "age": "Young",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Sola was found on the day of the Summer Solstice. She was pushed out of a car and left in...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664860/1/?bust=1690626676&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664860/2/?bust=1690626677&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf6a"
-  },
-  "name": "Chops",
-  "breeds": "Pit Bull Terrier",
-  "colors": null,
-  "age": "Young",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Chops is a Courtesy Listing and is not housed at the Animal Shelter. Please note that the City of Bloomington...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664857/1/?bust=1690626971&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf6b"
-  },
-  "name": "Bethany ",
-  "breeds": "Mixed Breed",
-  "colors": "Gray / Blue / Silver",
-  "age": "Young",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [
-    "Friendly",
-    "Playful",
-    "Curious"
-  ],
-  "description": "Kennel #25\nFemale\n43 lbs \n2-5 YO\nBethany is just the sweetest girl! With her beautiful Merle coloring and happy-go-lucky...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664853/1/?bust=1690626335&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf6c"
-  },
-  "name": "Aurora",
-  "breeds": "Husky",
-  "colors": "Apricot / Beige",
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [
-    "Playful",
-    "Smart",
-    "Curious"
-  ],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664850/1/?bust=1690625902&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf6d"
-  },
-  "name": "Lynn",
-  "breeds": "Chihuahua",
-  "colors": "Brindle",
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Small",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Hi there! I was found as a stray with my mom and now I&amp;#39;m ready for my own family to...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664843/1/?bust=1690626344&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664843/2/?bust=1690626344&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf6e"
-  },
-  "name": "Lucian",
-  "breeds": "Chihuahua",
-  "colors": "Brindle",
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Small",
-  "houseTrained": false,
-  "attributes": [
-    "As is adoption see medical"
-  ],
-  "description": "Hi there! I was found as a stray with my mom and now I&amp;#39;m ready for my own family to...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664842/1/?bust=1690626343&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664842/2/?bust=1690626345&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf6f"
-  },
-  "name": "Dottie",
-  "breeds": "Affenpinscher",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Small",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664831/1/?bust=1690626293&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf70"
-  },
-  "name": "Gorgonzola",
-  "breeds": "Patterdale Terrier / Fell Terrier",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664827/1/?bust=1690626296&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf71"
-  },
-  "name": "Limburger",
-  "breeds": "Chihuahua",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Small",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664828/1/?bust=1690626297&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf63"
-  },
-  "name": "Lima Bean",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Young",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": true,
-  "attributes": [],
-  "description": "Lima Bean is a 1.5 year old Labrador Retriever mix with a beautiful blonde coat. He&amp;#39;s a fully grown boy,...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664876/1/?bust=1690628735&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664876/2/?bust=1690628735&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664876/3/?bust=1690628736&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf74"
-  },
-  "name": "Queen",
-  "breeds": "Great Pyrenees",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664821/1/?bust=1690626070&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664821/2/?bust=1690626070&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf72"
-  },
-  "name": "Presley",
-  "breeds": "Mastiff",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664825/1/?bust=1690626301&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8e59183ad4659c1cf73"
-  },
-  "name": "Priscilla",
-  "breeds": "Mastiff",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664826/1/?bust=1690626291&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863a4"
-  },
-  "name": "Balto",
-  "breeds": "Husky",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664823/1/?bust=1690626068&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863a5"
-  },
-  "name": "Wood",
-  "breeds": "Terrier",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664822/1/?bust=1690626069&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863a8"
-  },
-  "name": "Hazelnut Verra",
-  "breeds": "Affenpinscher",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Extra Large",
-  "houseTrained": true,
-  "attributes": [],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664819/1/?bust=1690626046&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664819/2/?bust=1690626068&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664819/3/?bust=1690626071&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863a9"
-  },
-  "name": "Nova",
-  "breeds": "Rat Terrier",
-  "colors": null,
-  "age": "Young",
-  "gender": "Female",
-  "size": "Small",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Introducing Nova, her gorgeous looks make her quite the eye-catcher. This sweet girl enjoys being around people and is friendly...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664817/1/?bust=1690626018&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664817/2/?bust=1690626017&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664817/3/?bust=1690626029&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863aa"
-  },
-  "name": "Ghost",
-  "breeds": "Husky",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664805/1/?bust=1690625886&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863ab"
-  },
-  "name": "Marley",
-  "breeds": "Chihuahua",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Meet darling Marley!\n\nMarley is a chihuahua girl! She has a pretty, tan coat and a sweet personality. She weighs...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664807/1/?bust=1690625908&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664807/2/?bust=1690625909&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863ac"
-  },
-  "name": "Emery",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Cara&amp;#39;s House \n225-675-0400",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664795/1/?bust=1690625854&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863ad"
-  },
-  "name": "Annie",
-  "breeds": "Black and Tan Coonhound",
-  "colors": "Bicolor",
-  "age": "Senior",
-  "gender": "Female",
-  "size": "Large",
-  "houseTrained": true,
-  "attributes": [
-    "Friendly",
-    "Affectionate",
-    "Gentle",
-    "Quiet",
-    "Smart",
-    "Couch Potato"
-  ],
-  "description": "Please DO NOT click &quot;Start Your Inquiry&quot; on Petfinder. If you are interested in Annie please complete our online Love-A-Stray...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65647877/2/?bust=1690560334&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65647877/1/?bust=1690552346&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65647877/3/?bust=1690552347&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65647877/4/?bust=1690560335&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65647877/5/?bust=1690560340&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863af"
-  },
-  "name": "Sophie",
-  "breeds": "Chihuahua",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Meet sweet Sophie!\n\nSophie is a chihuahua girl! She has a pretty, reddish tan coat and a sweet personality. She...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664769/1/?bust=1690625888&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664769/2/?bust=1690625888&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863b0"
-  },
-  "name": "Penelope",
-  "breeds": "Pit Bull Terrier",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Meet the lovely Penelope!\n\nPenelope is a cattle dog mix, aged 5 years. She has a pretty, white coat with...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664766/1/?bust=1690625907&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664766/2/?bust=1690625907&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664766/3/?bust=1690625908&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664766/4/?bust=1690625907&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863b1"
-  },
-  "name": "Gypsy",
-  "breeds": "Great Pyrenees",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Meet adorable Gypsy!\n\nGypsy is a Great Pyrenees mix weighing in at 40 pounds with some more growing to do....",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664764/1/?bust=1690625893&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664764/2/?bust=1690625894&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664764/3/?bust=1690625894&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664764/4/?bust=1690625895&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863b2"
-  },
-  "name": "Honey",
-  "breeds": "Belgian Shepherd / Malinois",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Isn&amp;#39;t she gorgeous?!? This is Honey, and we believe her to be a Malinois mix. She is four years old,...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664765/1/?bust=1690625897&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664765/2/?bust=1690625895&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664765/3/?bust=1690625896&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664765/4/?bust=1690625898&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863a6"
-  },
-  "name": "Cooper",
-  "breeds": "Australian Shepherd",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664820/1/?bust=1690626070&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863a7"
-  },
-  "name": "Clifford",
-  "breeds": "Staffordshire Bull Terrier",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664818/1/?bust=1690626068&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664818/2/?bust=1690626070&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664818/3/?bust=1690626071&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863b5"
-  },
-  "name": "Renegade",
-  "breeds": "Hound",
-  "colors": null,
-  "age": "Young",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664756/1/?bust=1690625783&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863b6"
-  },
-  "name": "Scout",
-  "breeds": "Hound",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Black with tiny white spot on chest",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664751/1/?bust=1690625780&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863b7"
-  },
-  "name": "Taco",
-  "breeds": "German Pinscher",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Small",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Taco is a fun, little puppy - about 10 pounds at 10 weeks old. We&amp;#39;re not quite sure what breed...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664747/1/?bust=1690625766&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664747/2/?bust=1690625765&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863b3"
-  },
-  "name": "Riley",
-  "breeds": "Hound",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Black with tiny white on chin &amp;amp; right rear toe is white.",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664755/1/?bust=1690625783&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ea3482643b7e6863b4"
-  },
-  "name": "CoCo",
-  "breeds": "Hound",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Solid black",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664753/1/?bust=1690625783&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99171"
-  },
-  "name": "Kitty",
-  "breeds": "Australian Cattle Dog / Blue Heeler",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Large",
-  "houseTrained": true,
-  "attributes": [],
-  "description": "Have you ever met a dog named Kitty? Well today is the day- We think ol&amp;#39; Marshall Dillon would agree...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/1/?bust=1690625745&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/2/?bust=1690625746&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/3/?bust=1690625743&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/4/?bust=1690625746&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/5/?bust=1690625746&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/6/?bust=1690625748&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99172"
-  },
-  "name": "Ellie",
-  "breeds": "Collie",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Large",
-  "houseTrained": true,
-  "attributes": [],
-  "description": "Greeting friends! My name is Ellie and I&amp;#39;m a rather dashing (this is what people tell me) Collie mix, about...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664726/1/?bust=1690625754&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664726/2/?bust=1690625753&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664726/3/?bust=1690625754&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99175"
-  },
-  "name": "Paris",
-  "breeds": "Pit Bull Terrier",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Paris is 15 weeks old with a spunky attitude. Paris has been in a foster home with 4 other dogs,...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664715/1/?bust=1690625722&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664715/2/?bust=1690625720&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664715/3/?bust=1690625720&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664715/4/?bust=1690625722&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664715/5/?bust=1690625722&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99176"
-  },
-  "name": "Midnight",
-  "breeds": "Terrier",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Small",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Meet our dark and beautiful pup Midnight! She is 14 weeks old, Terrier mix. She is an adorable puppy who...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664699/1/?bust=1690625720&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664699/2/?bust=1690625713&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664699/3/?bust=1690625720&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664699/4/?bust=1690625716&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664699/5/?bust=1690625720&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99178"
-  },
-  "name": "Daisy",
-  "breeds": "Great Pyrenees",
-  "colors": null,
-  "age": "Young",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664696/1/?bust=1690625688&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99177"
-  },
-  "name": "Zeta",
-  "breeds": "Rottweiler",
-  "colors": null,
-  "age": "Young",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664697/1/?bust=1690625690&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664697/2/?bust=1690625693&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664697/3/?bust=1690625694&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff9917a"
-  },
-  "name": "Hennessy",
-  "breeds": "Pit Bull Terrier",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Hennessy is a very laid back girl who is very shy when meeting new people. Once she warms up, she...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664691/1/?bust=1690625679&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99174"
-  },
-  "name": "Lady",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Senior",
-  "gender": "Female",
-  "size": "Large",
-  "houseTrained": true,
-  "attributes": [],
-  "description": "I am the sweetest and most loyal girl who is looking for a family to dote on me for the...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664722/1/?bust=1690625729&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99173"
-  },
-  "name": "Rowan",
-  "breeds": "Great Dane",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": true,
-  "attributes": [],
-  "description": "Hello, I&amp;#39;m Rowan! I&amp;#39;m a super outgoing 2-year-old Great Dane mix, but I&amp;#39;m on the petite side (as Great Danes...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664731/1/?bust=1690625750&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99180"
-  },
-  "name": "Chunkers",
-  "breeds": "Mixed Breed",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Small",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "ALL ANIMALS POSTED ARE/WILL BE AVAILABLE FOR ADOPTION TO THE PUBLIC AFTER SPAY/NEUTER.\nWE ARE UNABLE TO PLACE A HOLD...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664685/1/?bust=1690625667&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99181"
-  },
-  "name": "Nakita",
-  "breeds": "Mixed Breed",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Small",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "ALL ANIMALS POSTED ARE/WILL BE AVAILABLE FOR ADOPTION TO THE PUBLIC AFTER SPAY/NEUTER.\nWE ARE UNABLE TO PLACE A HOLD...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664678/1/?bust=1690625668&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99182"
-  },
-  "name": "Doug",
-  "breeds": "German Shepherd Dog",
-  "colors": null,
-  "age": "Young",
-  "gender": "Male",
-  "size": "Small",
-  "houseTrained": true,
-  "attributes": [],
-  "description": null,
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664670/1/?bust=1690625661&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99183"
-  },
-  "name": "Densmore",
-  "breeds": "Mixed Breed",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Densmore is a super friendly gal who loves attention. She also enjoys going for walks and hanging with her humans....",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664667/1/?bust=1690625657&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664667/2/?bust=1690625661&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8ef206228aaeff99184"
-  },
-  "name": "Brittie",
-  "breeds": "Australian Shepherd",
-  "colors": null,
-  "age": "Young",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "This gorgeous gal is ready for an active forever home. Brittie is an energetic youngster who loves to play and...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664668/1/?bust=1690625656&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664668/2/?bust=1690625657&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf1b"
-  },
-  "name": "Blue",
-  "breeds": "Border Collie",
-  "colors": null,
-  "age": "Young",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Blue is a 1 - 2 year old Heeler/Border Collie mix that was surrender to the shelter when his family...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664651/1/?bust=1690625638&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664651/2/?bust=1690625639&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664651/3/?bust=1690625642&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664651/4/?bust=1690625641&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf20"
-  },
-  "name": "Zeus",
-  "breeds": "Bernese Mountain Dog",
-  "colors": null,
-  "age": "Young",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": true,
-  "attributes": [],
-  "description": "Hello,\n\n My name is Zeus! I am a very big boy. I was surrendered by my owner because I was...",
-  "neutered": true,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664640/1/?bust=1690625597&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664640/2/?bust=1690625597&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf21"
-  },
-  "name": "Dylan / AC 24405 E",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Brown, black and white with speckled nose.",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664636/1/?bust=1690625602&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664636/2/?bust=1690625603&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf22"
-  },
-  "name": "Dakota / AC 24405 G",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "White with tan ears and black nose.",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664639/1/?bust=1690625603&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664639/2/?bust=1690625603&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf23"
-  },
-  "name": "Dallas / AC 24405 H",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "white with speckled nose and lips.",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664629/1/?bust=1690625604&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664629/2/?bust=1690625604&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf24"
-  },
-  "name": "Davis / AC 24405 I",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Brown, black and white with solid black nose and tinted lips.",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664634/1/?bust=1690625601&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664634/2/?bust=1690625601&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf25"
-  },
-  "name": "Dorian / AC 24405 D",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Black, white and brown with white paws and white streak up head and white specks on nose.",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664635/1/?bust=1690625602&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664635/2/?bust=1690625602&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf26"
-  },
-  "name": "Drew / AC 24405 A",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "All white with speckled nose.",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664633/1/?bust=1690625598&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664633/2/?bust=1690625598&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf27"
-  },
-  "name": "Devin / AC 24405 C",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Female",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Black, white and brown with black nose and white tipped tail.",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664631/1/?bust=1690625596&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664631/2/?bust=1690625596&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf28"
-  },
-  "name": "Dawson / AC 24405 J",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Black and white with speckled black nose and white paws.",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664632/1/?bust=1690625596&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664632/2/?bust=1690625597&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf29"
-  },
-  "name": "Dean / AC 24405 F",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Baby",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "All white with black nose.",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664630/1/?bust=1690625595&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664630/2/?bust=1690625595&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf1d"
-  },
-  "name": "Chester",
-  "breeds": "Shih Tzu",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "_________________________________________________________________________\nAdoption Donation for Chester is $ 575.00\n\nWANT TO MEET Chester\n\nThe first step would be for you to...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664645/1/?bust=1690625610&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf1e"
-  },
-  "name": "Dolly",
-  "breeds": "Poodle",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "_________________________________________________________________________\nAdoption Donation for Dolly is $ 575.00\n\nWANT TO MEET Dolly\n\nThe first step would be for you to...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664641/1/?bust=1690625611&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf2c"
-  },
-  "name": "Yella",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Young",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664623/1/?bust=1690625588&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf2e"
-  },
-  "name": "Gaston",
-  "breeds": "Great Pyrenees",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Large",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Breed: \nSex: \nDOB: \nWeight: \nEnergy Level: \nPersonality Type: \nHistory: \nGood With:\nIdeal Home:\nFence Requirements: \nSpecial Info:\n\nDOG APPLICATION: https://service.sheltermanager.com/asmservice?account=dr1937&amp;amp;method=online_form_html&amp;amp;formid=26...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664608/1/?bust=1690625583&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664608/2/?bust=1690625584&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf2d"
-  },
-  "name": "Lunchbox",
-  "breeds": "German Shepherd Dog",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Male",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": "Breed: \nSex: \nDOB: \nWeight: \nEnergy Level: \nPersonality Type: \nHistory: \nGood With:\nIdeal Home:\nFence Requirements: \nSpecial Info:\n\nDOG APPLICATION: https://service.sheltermanager.com/asmservice?account=dr1937&amp;amp;method=online_form_html&amp;amp;formid=26...",
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/1/?bust=1690625584&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/2/?bust=1690625584&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/3/?bust=1690625585&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/4/?bust=1690625585&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/5/?bust=1690625586&width=600",
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/6/?bust=1690625587&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf2a"
-  },
-  "name": "Agatha",
-  "breeds": "Pit Bull Terrier",
-  "colors": null,
-  "age": "Young",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664625/1/?bust=1690625587&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4f8f422b9feef15f2cf2b"
-  },
-  "name": "Frizzle",
-  "breeds": "Labrador Retriever",
-  "colors": null,
-  "age": "Adult",
-  "gender": "Female",
-  "size": "Medium",
-  "houseTrained": false,
-  "attributes": [],
-  "description": null,
-  "neutered": false,
-  "photoUrl": [
-    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664626/1/?bust=1690625587&width=600"
-  ],
-  "adoptable": true,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "64c4fe206f0c014d9b688a91"
-  },
-  "name": "etst",
-  "breeds": "bfbfb",
-  "colors": "bxcbb",
-  "age": "bxfbx",
-  "size": "Small",
-  "attributes": [
-    "vcxvxc"
-  ],
-  "description": "vcxvcxv",
-  "neutered": true,
-  "photoUrl": [
-    "https://g.petango.com/shared/Photo-Not-Available-dog.gif"
-  ],
-  "adoptable": true,
-  "__v": 0,
-  "houseTrained": false
-}]
+[
+  {
+    "_id": {
+      "$oid": "64c4f89f213eebf55df01a55"
+    },
+    "name": "Anastasia",
+    "breeds": "Siberian Husky",
+    "colors": "White / Cream",
+    "age": "Senior",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [
+      "Friendly",
+      "Gentle",
+      "Playful",
+      "Independent",
+      "Couch potato",
+      "Loves Kisses"
+    ],
+    "description": "Anastasia came to us from The Valley after being chained up outside and starved nearly to death. Due to old...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664905/1/?bust=1690629400&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f89f213eebf55df01a56"
+    },
+    "name": "Martini-Local",
+    "breeds": "Italian Greyhound",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Small",
+    "houseTrained": false,
+    "attributes": [
+      "Friendly",
+      "Affectionate",
+      "Brave",
+      "Loves kisses",
+      "Funny",
+      "Playful",
+      "Athletic"
+    ],
+    "description": "MEET MARTINI!\n\nMartini is certainly the life of any party! This little girl is a 7 month old, Mini Italian...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/1/?bust=1690629363&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/2/?bust=1690629364&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/3/?bust=1690629364&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/4/?bust=1690629365&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/5/?bust=1690629366&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664904/6/?bust=1690629367&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f89f213eebf55df01a57"
+    },
+    "name": "DUKE",
+    "breeds": "American Bully",
+    "colors": "Black",
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": true,
+    "attributes": [
+      "Smart",
+      "Friendly"
+    ],
+    "description": "Duke is awesome! His previous owner could no longer take care of him. He arrived to the shelter on 7/27....",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/1/?bust=1690629291&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/2/?bust=1690629292&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/3/?bust=1690629292&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/4/?bust=1690629293&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/5/?bust=1690629293&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664903/6/?bust=1690629294&width=600"
+    ],
+    "adoptable": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f89f213eebf55df01a58"
+    },
+    "name": "Aspen",
+    "breeds": "Dalmatian",
+    "colors": "White / Cream",
+    "age": "Young",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": true,
+    "attributes": [
+      "Friendly",
+      "Affectionate",
+      "Loyal",
+      "Gentle",
+      "Smart",
+      "Loves kisses",
+      "Dignified"
+    ],
+    "description": "Aspen was picked up as a stray in a small town we help. We tried to find his owner, but...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664902/1/?bust=1690629235&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664902/2/?bust=1690629236&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664902/3/?bust=1690629238&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664902/4/?bust=1690629239&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664902/5/?bust=1690629241&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f89f213eebf55df01a5a"
+    },
+    "name": "Denver",
+    "breeds": "Pointer",
+    "colors": "Brown / Chocolate",
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": true,
+    "attributes": [
+      "Friendly",
+      "Funny",
+      "Playful",
+      "Curious"
+    ],
+    "description": "Who doesn’t love a playful, funny, clumsy little puppy?? #CRRDenver is new to our rescue, and he’s already made sure...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664896/1/?bust=1690628931&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664896/2/?bust=1690628931&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f89f213eebf55df01a59"
+    },
+    "name": "Jack",
+    "breeds": "Labrador Retriever",
+    "colors": "Black",
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [
+      "Friendly",
+      "Affectionate",
+      "Loyal",
+      "Gentle",
+      "Playful",
+      "Smart",
+      "Funny",
+      "Curious",
+      "Quiet",
+      "Dignified"
+    ],
+    "description": "#A083271, Labrador Retriever mix, Male, 65 lbs, 2 yrs old, Intake 7/18/23, Stray\n\nJack is a beautiful boy that is...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664898/1/?bust=1690629019&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664898/2/?bust=1690629021&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f89f213eebf55df01a5b"
+    },
+    "name": "Pete ",
+    "breeds": "American Bulldog",
+    "colors": "White / Cream",
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [
+      "Friendly",
+      "Affectionate",
+      "Loyal",
+      "Gentle",
+      "Playful",
+      "Smart",
+      "Loves kisses",
+      "Funny"
+    ],
+    "description": "#A083325, American Bulldog/Bull Terrier mix, Male, 53 lbs, 1 yr old, Intake 7/24/23, Stray\n\nPete is a sweet boy that...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664892/2/?bust=1690628260&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664892/1/?bust=1690628259&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664892/3/?bust=1690628261&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664892/4/?bust=1690628261&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f89f213eebf55df01a5c"
+    },
+    "name": "Norman",
+    "breeds": "Shetland Sheepdog / Sheltie",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664888/1/?bust=1690628847&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664888/2/?bust=1690628851&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664888/3/?bust=1690628852&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f89f213eebf55df01a54"
+    },
+    "name": "Azalea",
+    "breeds": "Terrier",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": true,
+    "attributes": [
+      "Friendly",
+      "Smart",
+      "Affectionate",
+      "Dignified",
+      "Couch Potato"
+    ],
+    "description": "Meet southern belle Azalea!\nShe is a 3 year old petite Terrier mix from an overcrowded shelter in Louisiana.\nAzalea...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664906/1/?bust=1690629615&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664906/2/?bust=1690629616&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf61"
+    },
+    "name": "Joker",
+    "breeds": "Pit Bull Terrier",
+    "colors": null,
+    "age": "Young",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664883/1/?bust=1690628737&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664883/2/?bust=1690628737&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664883/3/?bust=1690628736&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf62"
+    },
+    "name": "Kevin",
+    "breeds": "Hound",
+    "colors": null,
+    "age": "Young",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Kevin is a 1-year-old hound mix with a handsome black and white coat and soulful eyes. He is a medium-size...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664875/1/?bust=1690628734&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664875/2/?bust=1690628735&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf66"
+    },
+    "name": "Sherlock",
+    "breeds": "Basset Hound",
+    "colors": "Brown / Chocolate",
+    "age": "Senior",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664870/1/?bust=1690627573&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf69"
+    },
+    "name": "Sola",
+    "breeds": "Pit Bull Terrier",
+    "colors": null,
+    "age": "Young",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Sola was found on the day of the Summer Solstice. She was pushed out of a car and left in...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664860/1/?bust=1690626676&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664860/2/?bust=1690626677&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf6a"
+    },
+    "name": "Chops",
+    "breeds": "Pit Bull Terrier",
+    "colors": null,
+    "age": "Young",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Chops is a Courtesy Listing and is not housed at the Animal Shelter. Please note that the City of Bloomington...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664857/1/?bust=1690626971&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf6b"
+    },
+    "name": "Bethany ",
+    "breeds": "Mixed Breed",
+    "colors": "Gray / Blue / Silver",
+    "age": "Young",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [
+      "Friendly",
+      "Playful",
+      "Curious"
+    ],
+    "description": "Kennel #25\nFemale\n43 lbs \n2-5 YO\nBethany is just the sweetest girl! With her beautiful Merle coloring and happy-go-lucky...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664853/1/?bust=1690626335&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf6c"
+    },
+    "name": "Aurora",
+    "breeds": "Husky",
+    "colors": "Apricot / Beige",
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [
+      "Playful",
+      "Smart",
+      "Curious"
+    ],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664850/1/?bust=1690625902&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf6d"
+    },
+    "name": "Lynn",
+    "breeds": "Chihuahua",
+    "colors": "Brindle",
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Small",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Hi there! I was found as a stray with my mom and now I&amp;#39;m ready for my own family to...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664843/1/?bust=1690626344&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664843/2/?bust=1690626344&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf6e"
+    },
+    "name": "Lucian",
+    "breeds": "Chihuahua",
+    "colors": "Brindle",
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Small",
+    "houseTrained": false,
+    "attributes": [
+      "As is adoption see medical"
+    ],
+    "description": "Hi there! I was found as a stray with my mom and now I&amp;#39;m ready for my own family to...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664842/1/?bust=1690626343&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664842/2/?bust=1690626345&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf6f"
+    },
+    "name": "Dottie",
+    "breeds": "Affenpinscher",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Small",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664831/1/?bust=1690626293&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf70"
+    },
+    "name": "Gorgonzola",
+    "breeds": "Patterdale Terrier / Fell Terrier",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664827/1/?bust=1690626296&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf71"
+    },
+    "name": "Limburger",
+    "breeds": "Chihuahua",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Small",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664828/1/?bust=1690626297&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf63"
+    },
+    "name": "Lima Bean",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Young",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": true,
+    "attributes": [],
+    "description": "Lima Bean is a 1.5 year old Labrador Retriever mix with a beautiful blonde coat. He&amp;#39;s a fully grown boy,...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664876/1/?bust=1690628735&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664876/2/?bust=1690628735&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664876/3/?bust=1690628736&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf74"
+    },
+    "name": "Queen",
+    "breeds": "Great Pyrenees",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664821/1/?bust=1690626070&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664821/2/?bust=1690626070&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf72"
+    },
+    "name": "Presley",
+    "breeds": "Mastiff",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664825/1/?bust=1690626301&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8e59183ad4659c1cf73"
+    },
+    "name": "Priscilla",
+    "breeds": "Mastiff",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664826/1/?bust=1690626291&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863a4"
+    },
+    "name": "Balto",
+    "breeds": "Husky",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664823/1/?bust=1690626068&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863a5"
+    },
+    "name": "Wood",
+    "breeds": "Terrier",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664822/1/?bust=1690626069&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863a8"
+    },
+    "name": "Hazelnut Verra",
+    "breeds": "Affenpinscher",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Extra Large",
+    "houseTrained": true,
+    "attributes": [],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664819/1/?bust=1690626046&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664819/2/?bust=1690626068&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664819/3/?bust=1690626071&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863a9"
+    },
+    "name": "Nova",
+    "breeds": "Rat Terrier",
+    "colors": null,
+    "age": "Young",
+    "gender": "Female",
+    "size": "Small",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Introducing Nova, her gorgeous looks make her quite the eye-catcher. This sweet girl enjoys being around people and is friendly...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664817/1/?bust=1690626018&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664817/2/?bust=1690626017&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664817/3/?bust=1690626029&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863aa"
+    },
+    "name": "Ghost",
+    "breeds": "Husky",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664805/1/?bust=1690625886&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863ab"
+    },
+    "name": "Marley",
+    "breeds": "Chihuahua",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Meet darling Marley!\n\nMarley is a chihuahua girl! She has a pretty, tan coat and a sweet personality. She weighs...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664807/1/?bust=1690625908&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664807/2/?bust=1690625909&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863ac"
+    },
+    "name": "Emery",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Cara&amp;#39;s House \n225-675-0400",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664795/1/?bust=1690625854&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863ad"
+    },
+    "name": "Annie",
+    "breeds": "Black and Tan Coonhound",
+    "colors": "Bicolor",
+    "age": "Senior",
+    "gender": "Female",
+    "size": "Large",
+    "houseTrained": true,
+    "attributes": [
+      "Friendly",
+      "Affectionate",
+      "Gentle",
+      "Quiet",
+      "Smart",
+      "Couch Potato"
+    ],
+    "description": "Please DO NOT click &quot;Start Your Inquiry&quot; on Petfinder. If you are interested in Annie please complete our online Love-A-Stray...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65647877/2/?bust=1690560334&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65647877/1/?bust=1690552346&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65647877/3/?bust=1690552347&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65647877/4/?bust=1690560335&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65647877/5/?bust=1690560340&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863af"
+    },
+    "name": "Sophie",
+    "breeds": "Chihuahua",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Meet sweet Sophie!\n\nSophie is a chihuahua girl! She has a pretty, reddish tan coat and a sweet personality. She...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664769/1/?bust=1690625888&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664769/2/?bust=1690625888&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863b0"
+    },
+    "name": "Penelope",
+    "breeds": "Pit Bull Terrier",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Meet the lovely Penelope!\n\nPenelope is a cattle dog mix, aged 5 years. She has a pretty, white coat with...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664766/1/?bust=1690625907&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664766/2/?bust=1690625907&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664766/3/?bust=1690625908&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664766/4/?bust=1690625907&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863b1"
+    },
+    "name": "Gypsy",
+    "breeds": "Great Pyrenees",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Meet adorable Gypsy!\n\nGypsy is a Great Pyrenees mix weighing in at 40 pounds with some more growing to do....",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664764/1/?bust=1690625893&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664764/2/?bust=1690625894&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664764/3/?bust=1690625894&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664764/4/?bust=1690625895&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863b2"
+    },
+    "name": "Honey",
+    "breeds": "Belgian Shepherd / Malinois",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Isn&amp;#39;t she gorgeous?!? This is Honey, and we believe her to be a Malinois mix. She is four years old,...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664765/1/?bust=1690625897&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664765/2/?bust=1690625895&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664765/3/?bust=1690625896&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664765/4/?bust=1690625898&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863a6"
+    },
+    "name": "Cooper",
+    "breeds": "Australian Shepherd",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664820/1/?bust=1690626070&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863a7"
+    },
+    "name": "Clifford",
+    "breeds": "Staffordshire Bull Terrier",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664818/1/?bust=1690626068&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664818/2/?bust=1690626070&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664818/3/?bust=1690626071&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863b5"
+    },
+    "name": "Renegade",
+    "breeds": "Hound",
+    "colors": null,
+    "age": "Young",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664756/1/?bust=1690625783&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863b6"
+    },
+    "name": "Scout",
+    "breeds": "Hound",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Black with tiny white spot on chest",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664751/1/?bust=1690625780&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863b7"
+    },
+    "name": "Taco",
+    "breeds": "German Pinscher",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Small",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Taco is a fun, little puppy - about 10 pounds at 10 weeks old. We&amp;#39;re not quite sure what breed...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664747/1/?bust=1690625766&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664747/2/?bust=1690625765&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863b3"
+    },
+    "name": "Riley",
+    "breeds": "Hound",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Black with tiny white on chin &amp;amp; right rear toe is white.",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664755/1/?bust=1690625783&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ea3482643b7e6863b4"
+    },
+    "name": "CoCo",
+    "breeds": "Hound",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Solid black",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664753/1/?bust=1690625783&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99171"
+    },
+    "name": "Kitty",
+    "breeds": "Australian Cattle Dog / Blue Heeler",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Large",
+    "houseTrained": true,
+    "attributes": [],
+    "description": "Have you ever met a dog named Kitty? Well today is the day- We think ol&amp;#39; Marshall Dillon would agree...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/1/?bust=1690625745&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/2/?bust=1690625746&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/3/?bust=1690625743&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/4/?bust=1690625746&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/5/?bust=1690625746&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664729/6/?bust=1690625748&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99172"
+    },
+    "name": "Ellie",
+    "breeds": "Collie",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Large",
+    "houseTrained": true,
+    "attributes": [],
+    "description": "Greeting friends! My name is Ellie and I&amp;#39;m a rather dashing (this is what people tell me) Collie mix, about...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664726/1/?bust=1690625754&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664726/2/?bust=1690625753&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664726/3/?bust=1690625754&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99175"
+    },
+    "name": "Paris",
+    "breeds": "Pit Bull Terrier",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Paris is 15 weeks old with a spunky attitude. Paris has been in a foster home with 4 other dogs,...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664715/1/?bust=1690625722&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664715/2/?bust=1690625720&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664715/3/?bust=1690625720&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664715/4/?bust=1690625722&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664715/5/?bust=1690625722&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99176"
+    },
+    "name": "Midnight",
+    "breeds": "Terrier",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Small",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Meet our dark and beautiful pup Midnight! She is 14 weeks old, Terrier mix. She is an adorable puppy who...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664699/1/?bust=1690625720&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664699/2/?bust=1690625713&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664699/3/?bust=1690625720&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664699/4/?bust=1690625716&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664699/5/?bust=1690625720&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99178"
+    },
+    "name": "Daisy",
+    "breeds": "Great Pyrenees",
+    "colors": null,
+    "age": "Young",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664696/1/?bust=1690625688&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99177"
+    },
+    "name": "Zeta",
+    "breeds": "Rottweiler",
+    "colors": null,
+    "age": "Young",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664697/1/?bust=1690625690&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664697/2/?bust=1690625693&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664697/3/?bust=1690625694&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff9917a"
+    },
+    "name": "Hennessy",
+    "breeds": "Pit Bull Terrier",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Hennessy is a very laid back girl who is very shy when meeting new people. Once she warms up, she...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664691/1/?bust=1690625679&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99174"
+    },
+    "name": "Lady",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Senior",
+    "gender": "Female",
+    "size": "Large",
+    "houseTrained": true,
+    "attributes": [],
+    "description": "I am the sweetest and most loyal girl who is looking for a family to dote on me for the...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664722/1/?bust=1690625729&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99173"
+    },
+    "name": "Rowan",
+    "breeds": "Great Dane",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": true,
+    "attributes": [],
+    "description": "Hello, I&amp;#39;m Rowan! I&amp;#39;m a super outgoing 2-year-old Great Dane mix, but I&amp;#39;m on the petite side (as Great Danes...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664731/1/?bust=1690625750&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99180"
+    },
+    "name": "Chunkers",
+    "breeds": "Mixed Breed",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Small",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "ALL ANIMALS POSTED ARE/WILL BE AVAILABLE FOR ADOPTION TO THE PUBLIC AFTER SPAY/NEUTER.\nWE ARE UNABLE TO PLACE A HOLD...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664685/1/?bust=1690625667&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99181"
+    },
+    "name": "Nakita",
+    "breeds": "Mixed Breed",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Small",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "ALL ANIMALS POSTED ARE/WILL BE AVAILABLE FOR ADOPTION TO THE PUBLIC AFTER SPAY/NEUTER.\nWE ARE UNABLE TO PLACE A HOLD...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664678/1/?bust=1690625668&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99182"
+    },
+    "name": "Doug",
+    "breeds": "German Shepherd Dog",
+    "colors": null,
+    "age": "Young",
+    "gender": "Male",
+    "size": "Small",
+    "houseTrained": true,
+    "attributes": [],
+    "description": null,
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664670/1/?bust=1690625661&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99183"
+    },
+    "name": "Densmore",
+    "breeds": "Mixed Breed",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Densmore is a super friendly gal who loves attention. She also enjoys going for walks and hanging with her humans....",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664667/1/?bust=1690625657&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664667/2/?bust=1690625661&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8ef206228aaeff99184"
+    },
+    "name": "Brittie",
+    "breeds": "Australian Shepherd",
+    "colors": null,
+    "age": "Young",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "This gorgeous gal is ready for an active forever home. Brittie is an energetic youngster who loves to play and...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664668/1/?bust=1690625656&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664668/2/?bust=1690625657&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf1b"
+    },
+    "name": "Blue",
+    "breeds": "Border Collie",
+    "colors": null,
+    "age": "Young",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Blue is a 1 - 2 year old Heeler/Border Collie mix that was surrender to the shelter when his family...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664651/1/?bust=1690625638&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664651/2/?bust=1690625639&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664651/3/?bust=1690625642&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664651/4/?bust=1690625641&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf20"
+    },
+    "name": "Zeus",
+    "breeds": "Bernese Mountain Dog",
+    "colors": null,
+    "age": "Young",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": true,
+    "attributes": [],
+    "description": "Hello,\n\n My name is Zeus! I am a very big boy. I was surrendered by my owner because I was...",
+    "neutered": true,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664640/1/?bust=1690625597&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664640/2/?bust=1690625597&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf21"
+    },
+    "name": "Dylan / AC 24405 E",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Brown, black and white with speckled nose.",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664636/1/?bust=1690625602&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664636/2/?bust=1690625603&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf22"
+    },
+    "name": "Dakota / AC 24405 G",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "White with tan ears and black nose.",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664639/1/?bust=1690625603&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664639/2/?bust=1690625603&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf23"
+    },
+    "name": "Dallas / AC 24405 H",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "white with speckled nose and lips.",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664629/1/?bust=1690625604&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664629/2/?bust=1690625604&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf24"
+    },
+    "name": "Davis / AC 24405 I",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Brown, black and white with solid black nose and tinted lips.",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664634/1/?bust=1690625601&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664634/2/?bust=1690625601&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf25"
+    },
+    "name": "Dorian / AC 24405 D",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Black, white and brown with white paws and white streak up head and white specks on nose.",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664635/1/?bust=1690625602&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664635/2/?bust=1690625602&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf26"
+    },
+    "name": "Drew / AC 24405 A",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "All white with speckled nose.",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664633/1/?bust=1690625598&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664633/2/?bust=1690625598&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf27"
+    },
+    "name": "Devin / AC 24405 C",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Female",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Black, white and brown with black nose and white tipped tail.",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664631/1/?bust=1690625596&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664631/2/?bust=1690625596&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf28"
+    },
+    "name": "Dawson / AC 24405 J",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Black and white with speckled black nose and white paws.",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664632/1/?bust=1690625596&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664632/2/?bust=1690625597&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf29"
+    },
+    "name": "Dean / AC 24405 F",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Baby",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "All white with black nose.",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664630/1/?bust=1690625595&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664630/2/?bust=1690625595&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf1d"
+    },
+    "name": "Chester",
+    "breeds": "Shih Tzu",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "_________________________________________________________________________\nAdoption Donation for Chester is $ 575.00\n\nWANT TO MEET Chester\n\nThe first step would be for you to...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664645/1/?bust=1690625610&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf1e"
+    },
+    "name": "Dolly",
+    "breeds": "Poodle",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "_________________________________________________________________________\nAdoption Donation for Dolly is $ 575.00\n\nWANT TO MEET Dolly\n\nThe first step would be for you to...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664641/1/?bust=1690625611&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf2c"
+    },
+    "name": "Yella",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Young",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664623/1/?bust=1690625588&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf2e"
+    },
+    "name": "Gaston",
+    "breeds": "Great Pyrenees",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Large",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Breed: \nSex: \nDOB: \nWeight: \nEnergy Level: \nPersonality Type: \nHistory: \nGood With:\nIdeal Home:\nFence Requirements: \nSpecial Info:\n\nDOG APPLICATION: https://service.sheltermanager.com/asmservice?account=dr1937&amp;amp;method=online_form_html&amp;amp;formid=26...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664608/1/?bust=1690625583&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664608/2/?bust=1690625584&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf2d"
+    },
+    "name": "Lunchbox",
+    "breeds": "German Shepherd Dog",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Male",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": "Breed: \nSex: \nDOB: \nWeight: \nEnergy Level: \nPersonality Type: \nHistory: \nGood With:\nIdeal Home:\nFence Requirements: \nSpecial Info:\n\nDOG APPLICATION: https://service.sheltermanager.com/asmservice?account=dr1937&amp;amp;method=online_form_html&amp;amp;formid=26...",
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/1/?bust=1690625584&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/2/?bust=1690625584&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/3/?bust=1690625585&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/4/?bust=1690625585&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/5/?bust=1690625586&width=600",
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664609/6/?bust=1690625587&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf2a"
+    },
+    "name": "Agatha",
+    "breeds": "Pit Bull Terrier",
+    "colors": null,
+    "age": "Young",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664625/1/?bust=1690625587&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "64c4f8f422b9feef15f2cf2b"
+    },
+    "name": "Frizzle",
+    "breeds": "Labrador Retriever",
+    "colors": null,
+    "age": "Adult",
+    "gender": "Female",
+    "size": "Medium",
+    "houseTrained": false,
+    "attributes": [],
+    "description": null,
+    "neutered": false,
+    "photoUrl": [
+      "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/65664626/1/?bust=1690625587&width=600"
+    ],
+    "adoptable": true,
+    "__v": 0
+  }
+]
